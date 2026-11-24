@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋 Eu sou Gislaine-web3</h1>
 
-<h3 align="center">🚀 Full Stack Engineer | AI Engineer | Blockchain Analyst | DevOps</h3>
+<h3 align="center">🚀 Full Stack Engineer | AI Engineer | Blockchain Analyst | DevOps</h3> 
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;AI+Engineer;Blockchain+Developer;DevOps+Engineer&center=true&width=500&height=45">
