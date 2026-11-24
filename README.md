@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou Gislaine-programadora</h1>
+<h1 align="center">Olá 👋 Eu sou Gislaine-web3</h1>
 
 <h3 align="center">🚀 Full Stack Engineer | AI Engineer | Blockchain Analyst | DevOps</h3>
 
@@ -74,9 +74,9 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gislaine-programadora&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gislaine-web3&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gislaine-programadora&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gislaine-web3&layout=compact&theme=tokyonight"/>
 
 </td>
 
@@ -94,7 +94,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Gislaine-programadora&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Gislaine-web3&theme=tokyonight"/>
 
 </p>
 
@@ -102,7 +102,7 @@
 
 # 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gislaine-programadora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gislaine-web3)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gislainelophes@gmail.com)
 
@@ -114,7 +114,7 @@
 
 ---
 
-⭐️ From [gislaine-programadora](https://github.com/Gislaine-programadora)
+⭐️ From [gislaine-programadora](https://github.com/Gislaine-web3)
 
 
 
